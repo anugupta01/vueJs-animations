@@ -9,13 +9,13 @@
   "dependencies": {
     "core-js": "^3.50.0",
     "gsap": "^3.15.0",
-    "vue": "^3.5.42",
-    "vue-router": "^5.3.1"
+    "vue": "^3.5.43",
+    "vue-router": "^5.4.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.9",
     "@vue/cli-plugin-router": "~5.0.9",
     "@vue/cli-service": "~5.0.9",
-    "@vue/compiler-sfc": "^3.5.42"
+    "@vue/compiler-sfc": "^3.5.43"
   }
 }
